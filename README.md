@@ -2,10 +2,10 @@
 
 I'm Jonathan Gallardo-Kerth, a dynamic and innovative full-stack JavaScript developer based in Portland, Oregon. I love pushing the boundaries of technology and turning bold ideas into cutting-edge applications.
 
-## 🚀 About Me
+## About Me
 With a versatile skill set that spans both front-end and back-end technologies, I am dedicated to crafting seamless, user-friendly digital experiences.
 
-## 🚀 How to Install Jonathan In Your Team
+## How to Install Jonathan In Your Team
 
 1. **Review Jonathan's Awesome Projects:**  
 git browse https://github.com/jonathankerth
