@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jonathan Gallardo-Kerth, a nerdy and extroverted full-stack JavaScript developer based in Portland, Oregon. I love pushing the boundaries of technology and turning ideas into reality. 
+I'm Jonathan Gallardo-Kerth, a nerdy and extroverted full-stack software engineer living in Portland, Oregon. I love pushing the boundaries of technology and turning ideas into reality. 
 
 ## How to Install Jonathan In Your Team
 
