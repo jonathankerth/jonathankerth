@@ -5,7 +5,7 @@ I'm Jonathan Gallardo-Kerth, a nerdy and extroverted full-stack software enginee
 ## How to Install Jonathan In Your Team
 
 1. **Review Jonathan's Awesome Projects:**  
-git browse https://github.com/jonathankerth
+git browse [https://github.com/jonathankerth](https://github.com/jonathankerth?tab=repositories)
 
 2. **Find an Opening for Him in Your Team:**  
 open-your-company-careers
