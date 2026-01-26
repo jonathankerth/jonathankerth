@@ -30,21 +30,11 @@ If you encounter any issues, please don't hesitate to reach out. I'm always happ
 **Other Tools:** Figma, Git, GitHub Enterprise, Asana, Trello, ESLint, Prettier, VS Code, Slack, Google Suite, Notion, JIRA
 
 ## 🌍 Fun Facts
-- Traveled to 5 out of 7 continents with plans to visit the last two in 2025
-- Loves to cook, the longer the process the better
+- Traveled to 6 out of 7 continents with plans to visit the last two in December 2026
+- Loves to cook. 
 - 3D printer hobbyist
 - Conversational in Spanish
-- Fun fact lover and trivia nerd
+- Fantasy book reader
 
 ## 📫 Contact Me
 Feel free to reach out to me via [Email](mailto:Jonathanpkerth@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jonathankerth/). Check out my portfolio at [www.jonathankerth.com](http://www.jonathankerth.com).
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathankerth&theme=radical)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jonathankerth&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
