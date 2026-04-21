@@ -1,40 +1,51 @@
-### Hi there 👋
+### Hi there
 
-I'm Jonathan Gallardo-Kerth, a nerdy and extroverted full-stack software engineer living in Portland, Oregon. I love pushing the boundaries of technology and turning ideas into reality. 
+I'm Jonathan Gallardo-Kerth — a full-stack engineer based in Portland, Oregon who owns problems 
+end to end. I move fluently across product, frontend, backend, and infra to ship reliable software 
+that makes a measurable impact. Specializing in React, TypeScript, and Next.js on top of resilient 
+serverless APIs, AWS Infrastructure-as-Code, and CI/CD automation. AI-fluent with Claude Code, 
+Cursor, and Copilot — using spec-driven prompting to turn ambiguous requirements into shipped products.
 
-## How to Install Jonathan In Your Team
+---
 
-1. **Review Jonathan's Awesome Projects:**  
-   git browse <a href="https://www.jonathankerth.com/Projects" target="_blank" rel="noopener noreferrer">Jonathan's Repositories</a>
+## Want to Work Together?
 
-2. **Find an Opening for Him in Your Team:**  
-open-your-company-careers
+I'm currently open to new opportunities — ideally at an early-stage startup where I can own work 
+end to end and ship things that matter.
 
-3. **Hire Jonathan:**  
-sudo apt-get hire-jonathankerth
+- [Browse my projects](https://www.jonathankerth.com/Projects)
+- [View my resume](https://www.jonathankerth.com)
+- [Reach out](mailto:Jonathanpkerth@gmail.com)
 
-4. **Build Awesome Products Together:**  
-npm start jonathankerth
+---
 
-5. **Celebrate Your New Team Member:**  
-assert "Jonathan" == "Perfect Fit"
+## Tech Stack
 
-6. **Deploy to Production:**  
-./deploy-to-team.sh
+**Frontend:** React 18, Next.js 15, Vite, TypeScript, Redux Toolkit, Tailwind CSS, Material UI, HTML5, SCSS
 
-If you encounter any issues, please don't hesitate to reach out. I'm always happy to help with the hiring process!
+**Backend & APIs:** Node.js, Python 3, Flask, RESTful APIs, AWS Lambda, API Gateway, AWS Cognito,
+OAuth, Stripe, Firebase, OpenAI API, Anthropic API
 
-## 🛠 Tech Stack
-**Frontend:** React, Next.js, Vue.js, Angular, JavaScript, Redux, HTML, CSS, SCSS, Tailwind CSS, Bootstrap, Material UI  
-**Backend:** Node.js, Express, Python 3, MongoDB, SQL, NoSQL, AWS, Lambda Functions, Firebase, Vercel, Heroku, Google Analytics, ChatGPT, OpenAI API  
-**Other Tools:** Figma, Git, GitHub Enterprise, Asana, Trello, ESLint, Prettier, VS Code, Slack, Google Suite, Notion, JIRA
+**Cloud & Data:** AWS (CloudFormation, Terraform, S3, DynamoDB, RDS, EC2, IAM, CloudWatch, Amplify),
+Snowflake ETL, SQL, MongoDB, Docker, Kubernetes, GCP
 
-## 🌍 Fun Facts
-- Traveled to 6 out of 7 continents with plans to visit the last two in December 2026
-- Loves to cook. 
-- 3D printer hobbyist
+**DevOps:** Jenkins CI/CD, Git, GitHub Actions, Vercel, Heroku, ESLint, Prettier, Jira
+
+**AI-Assisted Dev:** Claude Code, Cursor, GitHub Copilot, spec-driven prompting, agentic workflows
+
+---
+
+## Fun Facts
+
+- Visited 6 of 7 continents — finishing the set in December 2026
+- Passionate home cook
+- 3D printing hobbyist
 - Conversational in Spanish
 - Fantasy book reader
 
-## 📫 Contact Me
-Feel free to reach out to me via [Email](mailto:Jonathanpkerth@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jonathankerth/). Check out my portfolio at [www.jonathankerth.com](http://www.jonathankerth.com).
+---
+
+## Contact
+
+[Email](mailto:Jonathanpkerth@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jonathankerth/) ·
+[Portfolio](http://www.jonathankerth.com)
