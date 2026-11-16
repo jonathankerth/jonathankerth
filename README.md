@@ -9,11 +9,11 @@ APIs on AWS and GCP, and the React/Next.js apps that put that data in front of p
 **Portland General Electric**: full-stack engineer on internal operations tools, from the data layer up to the UI
 
 - Build and maintain AWS Lambda services (Terraform, CloudFormation) that run Snowflake ETL pipelines refreshing millions of rows every 15 minutes
-- Helped build a storm-preparedness tool that shows ML crew forecasts in a React UI
+- Helped build a storm-preparedness tool that shows ML crew forecasts in a Vite/React UI
 - Develop features for a real-time crew-dispatch dashboard: a live map, a high-volume data grid, and the API Gateway services behind them
-- On call across frontend, API, and data layers, including restoring 1M+ Snowflake rows in under two hours
+- On-call across frontend, API, and data layers, including restoring 1M+ Snowflake rows in under two hours
 
-**[ToffeeLinks](https://toffeelinks.app)**: a football transfer-news app where I'm the sole developer, working with a partner who is a designer and reviews the transfer rumors.
+**[ToffeeLinks](https://toffeelinks.app)**: a football transfer-news app where I'm the sole developer, working alongside a designer and an editor who reviews the transfer rumors.
 
 - Python ingestion pipeline on GCP Cloud Functions that collects social posts and stores them in Firestore
 - Nightly Claude (Anthropic API) job that sorts those posts into structured data for review
@@ -41,4 +41,4 @@ features end to end.
 
 ### Outside of work
 
-6 of 7 continents visited (the last one is coming in December), home cook, fantasy reader, conversational Spanish.
+6 of 7 continents visited (the last one is coming in December), home cook, fantasy reader, conversational in Spanish.
