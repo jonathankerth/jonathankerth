@@ -13,7 +13,7 @@ APIs on AWS and GCP, and the React/Next.js apps that put that data in front of p
 - Develop features for a real-time crew-dispatch dashboard: a live map, a high-volume data grid, and the API Gateway services behind them
 - On call across frontend, API, and data layers, including restoring 1M+ Snowflake rows in under two hours
 
-**[ToffeeLinks](https://toffeelinks.app)**: a football transfer-news app I built and run solo
+**[ToffeeLinks](https://toffeelinks.app)**: a football transfer-news app where I'm the sole developer, working alongside a designer and an editor who reviews the transfer rumours
 
 - Python ingestion pipeline on GCP Cloud Functions that collects social posts and stores them in Firestore
 - Nightly Claude (Anthropic API) job that sorts those posts into structured data for review
@@ -41,4 +41,4 @@ features end to end.
 
 ### Outside of work
 
-6 of 7 continents visited (with plans to visit Antarctica in December), home cook, fantasy reader, conversational in Spanish.
+6 of 7 continents visited (the last one is coming in December), home cook, fantasy reader, conversational Spanish.
