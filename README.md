@@ -1,51 +1,44 @@
-### Hi there
+# Jonathan Gallardo-Kerth
 
-I'm Jonathan Gallardo-Kerth — a full-stack engineer based in Portland, Oregon who owns problems 
-end to end. I move fluently across product, frontend, backend, and infra to ship reliable software 
-that makes a measurable impact. Specializing in React, TypeScript, and Next.js on top of resilient 
-serverless APIs, AWS Infrastructure-as-Code, and CI/CD automation. AI-fluent with Claude Code, 
-Cursor, and Copilot — using spec-driven prompting to turn ambiguous requirements into shipped products.
+Full-stack software engineer in Portland, OR, and a data-focused developer. I work
+across the whole stack: Snowflake and Firestore data pipelines, Python and Node.js
+APIs on AWS and GCP, and the React/Next.js apps that put that data in front of people.
 
----
+### Currently
 
-## Want to Work Together?
+**Portland General Electric**: full-stack engineer on internal operations tools, from the data layer up to the UI
 
-I'm currently open to new opportunities — ideally at an early-stage startup where I can own work 
-end to end and ship things that matter.
+- Build and maintain AWS Lambda services (Terraform, CloudFormation) that run Snowflake ETL pipelines refreshing millions of rows every 15 minutes
+- Helped build a storm-preparedness tool that shows ML crew forecasts in a React UI
+- Develop features for a real-time crew-dispatch dashboard: a live map, a high-volume data grid, and the API Gateway services behind them
+- On call across frontend, API, and data layers, including restoring 1M+ Snowflake rows in under two hours
 
-- [Browse my projects](https://www.jonathankerth.com/Projects)
-- [View my resume](https://www.jonathankerth.com)
-- [Reach out](mailto:Jonathanpkerth@gmail.com)
+**[ToffeeLinks](https://toffeelinks.app)**: a football transfer-news app I built and run solo
 
----
+- Python ingestion pipeline on GCP Cloud Functions that collects social posts and stores them in Firestore
+- Nightly Claude (Anthropic API) job that sorts those posts into structured data for review
+- Next.js frontend with Stripe memberships, tested by a Playwright/Vitest suite on every push
 
-## Tech Stack
+Open to new full-stack roles, especially on early-stage teams where I can own
+features end to end.
 
-**Frontend:** React 18, Next.js 15, Vite, TypeScript, Redux Toolkit, Tailwind CSS, Material UI, HTML5, SCSS
-
-**Backend & APIs:** Node.js, Python 3, Flask, RESTful APIs, AWS Lambda, API Gateway, AWS Cognito,
-OAuth, Stripe, Firebase, OpenAI API, Anthropic API
-
-**Cloud & Data:** AWS (CloudFormation, Terraform, S3, DynamoDB, RDS, EC2, IAM, CloudWatch, Amplify),
-Snowflake ETL, SQL, MongoDB, Docker, Kubernetes, GCP
-
-**DevOps:** Jenkins CI/CD, Git, GitHub Actions, Vercel, Heroku, ESLint, Prettier, Jira
-
-**AI-Assisted Dev:** Claude Code, Cursor, GitHub Copilot, spec-driven prompting, agentic workflows
+[Portfolio](https://www.jonathankerth.com/Projects) · [Resume](https://www.jonathankerth.com) ·
+[LinkedIn](https://www.linkedin.com/in/jonathankerth/) · [Email](mailto:jonathanpkerth@gmail.com)
 
 ---
 
-## Fun Facts
+### Tech
 
-- Visited 6 of 7 continents — finishing the set in December 2026
-- Passionate home cook
-- 3D printing hobbyist
-- Conversational in Spanish
-- Fantasy book reader
+**Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Material UI<br>
+**Backend:** Python, Node.js, REST APIs, AWS Lambda, API Gateway, GCP Cloud Functions<br>
+**Data:** Snowflake, SQL, PostgreSQL, Firestore, DynamoDB<br>
+**Cloud & DevOps:** AWS (Amplify, Cognito, S3, CloudWatch), Terraform, CloudFormation, Jenkins, GitHub Actions, Docker, Vercel<br>
+**Testing:** Playwright, Vitest, Jest<br>
+**AI:** Anthropic API, Claude Code, Kiro
 
 ---
 
-## Contact
+### Outside of work
 
-[Email](mailto:Jonathanpkerth@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jonathankerth/) ·
-[Portfolio](http://www.jonathankerth.com)
+6 of 7 continents visited (the last one is coming in December), home cook,
+3D printing hobbyist, fantasy reader, conversational Spanish.
