@@ -34,11 +34,11 @@ features end to end.
 **Data:** Snowflake, SQL, PostgreSQL, Firestore, DynamoDB<br>
 **Cloud & DevOps:** AWS (Amplify, Cognito, S3, CloudWatch), Terraform, CloudFormation, Jenkins, GitHub Actions, Docker, Vercel<br>
 **Testing:** Playwright, Vitest, Jest<br>
-**AI:** Anthropic API, Claude Code, Kiro
+**AI & LLM Integration:** Anthropic API (Claude), structured JSON outputs, prompt engineering, prompt caching, prompt-injection defense, LLM evals, RAG, Ollama<br>
+**AI Dev Tools:** Claude Code (custom subagents, hooks), Kiro, MCP servers (Confluence, Jira, Bitbucket)
 
 ---
 
 ### Outside of work
 
-6 of 7 continents visited (the last one is coming in December), home cook,
-3D printing hobbyist, fantasy reader, conversational Spanish.
+6 of 7 continents visited (with plans to visit Antarctica in December), home cook, fantasy reader, conversational in Spanish.
